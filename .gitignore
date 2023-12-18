@@ -1,0 +1,7 @@
+.idea
+.vscode
+*.pyc
+*.gz
+*.tsv
+__pycache__
+ger_some_token_extractor.egg-info
