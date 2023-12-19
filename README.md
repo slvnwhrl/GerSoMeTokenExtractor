@@ -1,4 +1,4 @@
-## Introdcution
+## Introduction
 This repository provides a token extractor for German social media texts. The extractor can be used to reduce texts to a list of selected (e.g., with a specific POS tag or a) and/or standardized (e.g., lemmatized). This can be useful, for instance, for topic modeling.
 
 The code is based on a spacy pipeline with custom components that are especially suited for German social media texts. The choices for the components are partially motivated by this analysis: [Evaluating Off-the-Shelf NLP Tools for German](https://github.com/rubcompling/konvens2019). 
